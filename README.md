@@ -33,6 +33,28 @@ The analysis is based on healthcare-related tables:
 ## Why This Work Matters
 This analysis demonstrates the application of SQL in a healthcare context, combining domain understanding with data analysis skills. It reflects real-world reporting scenarios relevant for Healthcare Data Analyst roles.
 
+## Dashboard Preview
+
+### Claims Analysis
+![Claims](claims_dashboard.png)
+
+### Providers Analysis
+![Providers](providers_dashboard.png)
+
+### Members Analysis
+![Members](members_dashboard.png)
+
+## Insights from Dashboard
+- Claims showed a declining trend from January to March
+- Denial rate provides quick insight into claim rejection patterns
+- Distribution chart highlights proportion of Approved, Pending, and Denied claims
+- Interactive filtering enables detailed member-level and provider-level analysis
+
+## Tools Used
+- Power BI
+- DAX
+- Data Modeling
+
 ## Author
 Nitin Gupta  
 Healthcare Domain | SQL | Python | Aspiring Data Analyst
